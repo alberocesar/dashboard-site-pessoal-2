@@ -1,0 +1,44 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "email": "teste@gmail.com",
+      "password": "teste@123"
+    }
+  ],
+  "informacoes": [
+    {
+      "id": 1,
+      "foto": "https://github.com/alberocesar.png",
+      "nome": "Alberto Cesar",
+      "cargo": "Desenvolvedor de Software Junior",
+      "resumo": "Teste"
+    }
+  ],
+  "experiencias": [
+    {
+      "id": 1,
+      "titulo": "Desenvolvedor software Junior",
+      "descricao": "teste1",
+      "tipo": "profissional",
+      "anoInicio": "2023",
+      "anoFim": "2025"
+    },
+    {
+      "id": 2,
+      "titulo": "Desenvolvedor software",
+      "descricao": "teste 02",
+      "tipo": "academico",
+      "anoInicio": "2023",
+      "anoFim": "2025"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "link": "https://new-portfolio-comeia-fbry.vercel.app",
+      "image": "https://github.com/alberocesar.png",
+      "title": "Portfolio pessoal desenvolvido para o modulo React da Comeia"
+    }
+  ]
+}
